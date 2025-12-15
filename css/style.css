@@ -592,7 +592,7 @@ button {
     border-radius: 5px;
     background-color: #041d2c;
     height: 50px;
-    margin-top: 40px;
+    margin: 40px;
     padding-top: 7px;
     text-align: center;
     display: inline-block;
@@ -681,6 +681,7 @@ button {
     float: left;
     background-color: #0fafe0;
     height: auto;
+    padding: 27px 0px;
 }
 
 .contact_main {
